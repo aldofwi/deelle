@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/deelle/static/css/main.14f6d164.chunk.css",
+    "main.js": "/deelle/static/js/main.c04d7142.chunk.js",
+    "main.js.map": "/deelle/static/js/main.c04d7142.chunk.js.map",
+    "runtime-main.js": "/deelle/static/js/runtime-main.97289c79.js",
+    "runtime-main.js.map": "/deelle/static/js/runtime-main.97289c79.js.map",
+    "static/css/2.b57b7cfd.chunk.css": "/deelle/static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.190333b3.chunk.js": "/deelle/static/js/2.190333b3.chunk.js",
+    "static/js/2.190333b3.chunk.js.map": "/deelle/static/js/2.190333b3.chunk.js.map",
+    "static/js/3.6c0d151a.chunk.js": "/deelle/static/js/3.6c0d151a.chunk.js",
+    "static/js/3.6c0d151a.chunk.js.map": "/deelle/static/js/3.6c0d151a.chunk.js.map",
+    "index.html": "/deelle/index.html",
+    "static/css/2.b57b7cfd.chunk.css.map": "/deelle/static/css/2.b57b7cfd.chunk.css.map",
+    "static/css/main.14f6d164.chunk.css.map": "/deelle/static/css/main.14f6d164.chunk.css.map",
+    "static/js/2.190333b3.chunk.js.LICENSE.txt": "/deelle/static/js/2.190333b3.chunk.js.LICENSE.txt",
+    "static/media/isa2.1cce1b15.jpg": "/deelle/static/media/isa2.1cce1b15.jpg",
+    "static/media/App.css": "/deelle/static/media/isa3.5725126a.jpg",
+    "static/media/isa4.83422197.jpg": "/deelle/static/media/isa4.83422197.jpg",
+    "static/media/isa5.4f59b79c.jpg": "/deelle/static/media/isa5.4f59b79c.jpg",
+    "static/media/isa6.2c2244c3.jpg": "/deelle/static/media/isa6.2c2244c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97289c79.js",
+    "static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.190333b3.chunk.js",
+    "static/css/main.14f6d164.chunk.css",
+    "static/js/main.c04d7142.chunk.js"
+  ]
+}
