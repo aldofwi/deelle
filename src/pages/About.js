@@ -35,7 +35,7 @@ function About() {
                 <figure className="text-center">
                     <blockquote className="blockquote">
                         <p className="mb-3"><i>Cette forte tête a commencé en 2015, </i></p>
-                        <p className="mb-3"><i>d’abord par le théâtre d’impro puis </i></p>
+                        <p className="mb-3"><i>d’abord par le théâtre d’improvisation puis </i></p>
                         <p className="mb-3"><i>en écrivant ses propres sketchs, </i></p>
                         <p className="mb-3"><i>pour amener une nouvelle touche </i></p>
                         <p className="mb-3"><i>féminine & humoristique. </i></p>
