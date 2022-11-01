@@ -125,7 +125,7 @@ body {
   justify-content: center;
   background-size: cover;
   border: whitesmoke;
-  border-style: double;
+  border-style: groove;
   border-radius: 20px;
   height: 500px;
   width: 500px;
